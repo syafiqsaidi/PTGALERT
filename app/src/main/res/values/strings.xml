@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PTG ALERT</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">WELCOME</string>
+    <string name="nav_header_subtitle">ProTraderGuider.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Dashboard</string>
+    <string name="menu_gallery">My Profile</string>
+    <string name="menu_slideshow">sample</string>
+    <string name="menu_tools">Our VPS </string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Whats New!</string>
+</resources>
